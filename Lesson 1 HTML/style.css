@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.side-container{
+    height: 80vh;
+    width: 40%;
+    background-color: red;
+}
+.main-container{
+    height: 80vh;
+    width: 50%;
+    background-color: aquamarine;
+}
